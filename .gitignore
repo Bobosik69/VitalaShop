@@ -72,3 +72,6 @@ logs/
 *.bak
 *.backup
 
+
+/VitalaShop/.legacy-backup-*/
+/VitalaShop/javafx-sdk/
